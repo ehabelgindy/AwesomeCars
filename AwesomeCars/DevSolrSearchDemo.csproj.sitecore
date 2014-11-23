@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <Site Server="http://devsolrsearchdemo/" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Site\Layouts\Standard.aspx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{1AB122CB-CF0D-4A9F-84EF-E612A3E4F2DD}</Item>
+    </File>
+    <File Include="Site\Sublayouts\SearchResults.ascx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{45441195-FAC5-4302-9057-5FA2FE9BE5BA}</Item>
+    </File>
+  </ItemGroup>
+</Project>
