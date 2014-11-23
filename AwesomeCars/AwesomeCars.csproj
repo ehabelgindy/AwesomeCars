@@ -112,7 +112,7 @@
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
     <Content Include="service\autocomplete.ashx" />
-    <Content Include="Solr config\schema.xml" />
+    <None Include="Solr config\schema.xml" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
